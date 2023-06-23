@@ -60,7 +60,7 @@ a{
     margin-left: 10%;
     overflow-y: auto;
     padding-right: 2%;
-    padding-bottom: 2%;
+    margin-bottom: 2%;
 }
 
 .defbalise{
@@ -73,7 +73,7 @@ a{
 }
 
 .balise{
-    margin: 30px 0px;
+    margin: 100px 0px 30px 0px;
 }
 
 table{
