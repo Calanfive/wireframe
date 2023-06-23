@@ -8,6 +8,7 @@ body{
     display: flex;
     flex-direction: row;
     height: 100%;
+    font-family: monospace;
 }
 
 .container{
@@ -44,10 +45,21 @@ body{
     height: 100%;
 }
 
+a{
+    color:  black;
+    text-decoration: none;
+}
+
+.menutitle {
+    text-decoration: underline;
+}
+
+
 .rightpart{
     height: 100%;
     margin-left: 10%;
     overflow-y: auto;
+    padding-right: 2%;
 }
 
 .defbalise{
