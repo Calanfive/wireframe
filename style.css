@@ -17,6 +17,7 @@ body{
 .Essentiels{
     display: flex;
     flex-direction: column;
+    padding-top: 80px;
 }
 
 .Media{
@@ -51,6 +52,7 @@ body{
 
 .defbalise{
     margin: 0;
+    padding-top: 100px;
 }
 
 .Attributs{
